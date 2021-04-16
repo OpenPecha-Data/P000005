@@ -3,7 +3,7 @@
 |Alternative titles  |
 |Author | 
 |BDRC ID | W2KG210295
-|Creator | Google OCR
+|Etext source | Google OCR
 |Number of volumes | 120
 |Edit online | [<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png"> Open in Editor](http://editor.openpecha.org/P000005)
 |Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P000005/releases/download/v2/P000005_base.zip)   [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P000005/releases/download/v2/P000005_hfml.zip)
