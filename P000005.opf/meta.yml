@@ -1,7 +1,7 @@
 id: P000005
 initial_creation_type: ocr
 created_at: 28/03/2020
-last_modified_at: 25/11/2021
+last_modified_at: 2021-12-16 15:04:40.193546
 source_metadata:
   id: bdr:W2KG210295
   title: བཀའ་འགྱུར། ༼ཕུག་བྲག་བྲིས་མ༽
@@ -607,3 +607,5 @@ source_metadata:
       volume_number: 120
       total_pages: 0
   author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
